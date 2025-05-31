@@ -27,7 +27,7 @@ export default function Nav() {
           Home
         </Link>
         <Link
-          href="posts"
+          href="/posts"
           style={{
             color: '#fff',
             textDecoration: 'none',
@@ -39,7 +39,7 @@ export default function Nav() {
           Post
         </Link>
         <Link
-          href="about"
+          href="/about"
           style={{
             color: '#fff',
             textDecoration: 'none',
